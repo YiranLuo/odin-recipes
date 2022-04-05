@@ -1,0 +1,26 @@
+h1, h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-size: 50px;
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    background-color: yellow;
+    color: red;
+    font-size: 35px;
+}
+
+img {
+    height: auto;
+    width: 600px;
+}
+
+ul li {
+    color: gold;
+    font-size: 30px;
+}

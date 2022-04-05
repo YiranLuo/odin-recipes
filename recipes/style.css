@@ -1,0 +1,41 @@
+img {
+    height: 800px;
+    width: auto;
+}
+
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+    color:lightcyan;
+    background-color: black;
+    font-size: 50px;
+}
+
+h2 {
+    color:greenyellow;
+    background-color: violet;
+    font-size: 35px;
+}
+
+body p {
+    font-size: 20px;
+}
+
+li {
+    
+    color:darkblue;
+    background-color: lightcyan;
+    font-size: large;
+    font-weight: bold;
+}
+
+ul li {
+    text-align: center;
+    font-size: xx-large;
+}
+
+ol li {
+    font-size: larger;
+}
